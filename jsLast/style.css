@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+img {
+    max-width: 40%;
+    border-radius: 8px;
+}
+.info {
+    margin: 10px 0;
+}
+.like-button {
+    padding: 10px 20px;
+    background-color: #0073e6;
+    color: white;
+    border: none;
+    cursor: pointer; }
